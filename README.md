@@ -6,7 +6,7 @@
 🚀 Subo mis **proyectos personales** y experimentos en este GitHub.  
 
 ## 🛠 Tecnologías y Habilidades  
-- **Lenguajes**: C++, Python, Java con Spring  
+- **Lenguajes**: C++, Python, Java con Spring, PHP
 - **Desarrollo Backend**: Spring Boot, Node.js
 - **Bases de Datos**: MySQL
 - **DevOps & Contenedores**: Docker, Kubernetes, Azure 
