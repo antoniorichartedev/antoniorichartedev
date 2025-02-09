@@ -7,7 +7,7 @@
 
 ## 🛠 Tecnologías y Habilidades  
 - **Lenguajes**: C++, Python, Java con Spring  
-- **Desarrollo Backend**: Spring Boot, Node.js, Express  
+- **Desarrollo Backend**: Spring Boot, Node.js
 - **Bases de Datos**: MySQL
 - **DevOps & Contenedores**: Docker, Kubernetes, Azure 
 - **Otras Tecnologías**: Git, Linux 
