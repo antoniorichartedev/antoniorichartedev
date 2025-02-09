@@ -1,4 +1,4 @@
-# 👨‍💻 ¡Hola, soy [Antonio Richarte González]!  
+# 👨‍💻 ¡Hola, soy Antonio Richarte González!  
 ### Ingeniero Informático | Desarrollador de Software  
 
 🎓 Graduado en Ingeniería Informática en la rama de Tecnologías de la información por la **Universidad de Cádiz**.  
