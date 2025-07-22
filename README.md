@@ -1,5 +1,5 @@
 # 👨‍💻 ¡Hola, soy Antonio Richarte González!  
-### Ingeniero Informático | Desarrollador de Software  
+### Ingeniero Informático | Desarrollador de Software Web  
 
 🎓 Graduado en Ingeniería Informática en la rama de Tecnologías de la información por la **Universidad de Cádiz**.  
 💡 Apasionado por la tecnología, el desarrollo de software y la resolución de problemas complejos.  
